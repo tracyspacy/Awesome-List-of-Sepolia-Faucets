@@ -75,6 +75,12 @@ You need to attest your device to claim Sepolia ETH.
 
 Each github account can claim **0.02 Sepolia ETH** every day.
 
+### [faucet.free](https://faucet.free)
+
+
+You need to create a free 0xname first (only gas fee applies). Then you can request **0.05 Sepolia ETH** every 24h for your wallet.
+
+
 <br>
 
 ## Sepolia ETH Sellers
